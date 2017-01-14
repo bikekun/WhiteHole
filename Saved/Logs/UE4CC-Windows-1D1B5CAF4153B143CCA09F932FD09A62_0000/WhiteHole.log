@@ -1,0 +1,464 @@
+﻿Log file open, 01/14/17 16:37:11
+LogInit:Display: Running engine for game: WhiteHole
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(314517146) SRandInit(314517146).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.073282
+LogPluginManager: Loaded Plugin Paper2D, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/unreal engine 4/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/unreal engine 4/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.14-13.37.12:486][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.14-13.37.12:487][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.14-13.37.12:506][  0]LogInit: Computer: DESKTOP-66AAJFH
+[2017.01.14-13.37.12:506][  0]LogInit: User: potos
+[2017.01.14-13.37.12:506][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.14-13.37.12:506][  0]LogInit: High frequency timer resolution =3.312793 MHz
+[2017.01.14-13.37.12:507][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2017.01.14-13.37.12:507][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.14-13.37.12:507][  0]LogMemory: Process Physical Memory: 264.09 MB used, 264.09 MB peak
+[2017.01.14-13.37.12:507][  0]LogMemory: Process Virtual Memory: 262.36 MB used, 262.36 MB peak
+[2017.01.14-13.37.12:507][  0]LogMemory: Physical Memory: 5289.08 MB used,  6982.04 MB free, 12271.11 MB total
+[2017.01.14-13.37.12:507][  0]LogMemory: Virtual Memory: 674.64 MB used,  6982.04 MB free, 134217728.00 MB total
+[2017.01.14-13.37.12:539][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.14-13.37.13:367][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.14-13.37.13:376][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6800 Series' (Feature Level 11_0)
+[2017.01.14-13.37.13:376][  0]LogD3D11RHI:       1011/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.01.14-13.37.13:378][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.14-13.37.13:378][  0]LogD3D11RHI:       0/0/6135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.14-13.37.13:378][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.14-13.37.13:383][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.14-13.37.13:383][  0]LogD3D11RHI:     GPU DeviceId: 0x6739 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.14-13.37.13:383][  0]LogWindows: EnumDisplayDevices:
+[2017.01.14-13.37.13:383][  0]LogWindows:    0. 'AMD Radeon HD 6800 Series' (P:1 D:1)
+[2017.01.14-13.37.13:383][  0]LogWindows:    1. 'AMD Radeon HD 6800 Series' (P:0 D:0)
+[2017.01.14-13.37.13:384][  0]LogWindows:    2. 'AMD Radeon HD 6800 Series' (P:0 D:0)
+[2017.01.14-13.37.13:384][  0]LogWindows:    3. 'AMD Radeon HD 6800 Series' (P:0 D:0)
+[2017.01.14-13.37.13:384][  0]LogWindows:    4. 'AMD Radeon HD 6800 Series' (P:0 D:0)
+[2017.01.14-13.37.13:385][  0]LogWindows:    5. 'AMD Radeon HD 6800 Series' (P:0 D:0)
+[2017.01.14-13.37.13:385][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.01.14-13.37.13:385][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6800 Series
+[2017.01.14-13.37.13:385][  0]LogD3D11RHI:   Driver Version: 15.201.1151.1008 (internal:15.201.1151.1008, unified:15.201.1151.1008)
+[2017.01.14-13.37.13:385][  0]LogD3D11RHI:      Driver Date: 11-4-2015
+[2017.01.14-13.37.13:385][  0]LogRHI: Texture pool is 708 MB (70% of 1011 MB)
+[2017.01.14-13.37.13:393][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.14-13.37.13:404][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.01.14-13.37.13:405][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../project_c/WhiteHole/Intermediate/Shaders/WorkingDirectory/5684/).
+[2017.01.14-13.37.13:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/potos/AppData/Local/Temp/UnrealShaderWorkingDir/22E0521F4B71C6B7583B59B9F097FEE4/'.
+[2017.01.14-13.37.13:405][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.14-13.37.14:672][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.14-13.37.14:728][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.14-13.37.14:782][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.14-13.37.14:836][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.14-13.37.14:892][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.14-13.37.14:948][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.14-13.37.15:005][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.14-13.37.15:063][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.14-13.37.15:106][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.14-13.37.15:159][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.14-13.37.15:212][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.14-13.37.15:268][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.14-13.37.15:323][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.14-13.37.15:380][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.14-13.37.15:439][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.14-13.37.15:557][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.14-13.37.15:557][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.14-13.37.15:598][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.14-13.37.15:692][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.14-13.37.15:732][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.14-13.37.15:794][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.14-13.37.15:850][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.14-13.37.15:908][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.14-13.37.15:967][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.14-13.37.15:967][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.14-13.37.16:374][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache: Loaded boot cache 0.10s 50MB C:/Users/potos/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/potos/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../project_c/WhiteHole/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../project_c/WhiteHole/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.14-13.37.16:470][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.14-13.37.16:494][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.14-13.37.16:506][  0]LogDerivedDataCache: Using Local data cache path C:/Users/potos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.14-13.37.16:825][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.14-13.37.16:831][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.14-13.37.17:068][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.14-13.37.17:109][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.14-13.37.17:154][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.14-13.37.17:154][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.14-13.37.17:154][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.14-13.37.17:832][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: whitehole, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 981543678
+[2017.01.14-13.37.17:889][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2017.01.14-13.37.17:932][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.014883 seconds
+[2017.01.14-13.37.17:939][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.14-13.37.17:939][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.14-13.37.17:939][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.14-13.37.17:996][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.14-13.37.18:679][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.14-13.37.18:679][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.14-13.37.18:680][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.14-13.37.19:555][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.14-13.37.19:594][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.14-13.37.19:888][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.14-13.37.20:296][  0]SourceControl: Info Source control is disabled
+[2017.01.14-13.37.21:382][  0]LogLinker:Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2017.01.14-13.37.21:382][  0]LogLinker:Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2017.01.14-13.37.21:382][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2017.01.14-13.37.22:325][  0]LogEngine: Initializing Engine...
+[2017.01.14-13.37.22:325][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.14-13.37.22:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.14-13.37.22:599][  0]LogInit: XAudio2 using 'Динамики (2- USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.14-13.37.22:613][  0]LogInit: FAudioDevice initialized.
+[2017.01.14-13.37.22:651][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/potos/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.14-13.37.22:671][  0]LogInit: Texture streaming: Enabled
+[2017.01.14-13.37.22:849][  0]LogInit: Transaction tracking system initialized
+[2017.01.14-13.37.23:177][  0]BlueprintLog: New page: Editor Load
+[2017.01.14-13.37.23:981][  0]LocalizationService: Info Localization service is disabled
+[2017.01.14-13.37.24:826][  0]LogConsoleResponse:Display: 
+[2017.01.14-13.37.25:014][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.14-13.37.25:014][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.14-13.37.25:042][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine 4/project_c/WhiteHole/Content/' took 0.01s
+[2017.01.14-13.37.26:193][  0]Cmd: MAP LOAD FILE="../../../../../project_c/WhiteHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.14-13.37.26:194][  0]LightingResults: New page: Lighting Build
+[2017.01.14-13.37.26:236][  0]MapCheck: New page: Map Check
+[2017.01.14-13.37.26:236][  0]LightingResults: New page: Lighting Build
+[2017.01.14-13.37.28:049][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.14-13.37.28:068][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.14-13.37.28:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.14-13.37.28:123][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 54.363ms to complete.
+[2017.01.14-13.37.28:123][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.930
+[2017.01.14-13.37.28:188][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.14-13.37.28:428][  0]LogCollectionManager: Loaded 0 collections in 0.001331 seconds
+[2017.01.14-13.37.28:503][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine 4/project_c/WhiteHole/Saved/Collections/' took 0.01s
+[2017.01.14-13.37.28:503][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine 4/project_c/WhiteHole/Content/Developers/potos/Collections/' took 0.01s
+[2017.01.14-13.37.28:503][  0]LogFileCache: Scanning file cache for directory 'D:/unreal engine 4/project_c/WhiteHole/Content/Collections/' took 0.01s
+[2017.01.14-13.37.28:503][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.14-13.37.28:513][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2191 classes and 430 folders.
+[2017.01.14-13.37.28:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.14-13.37.28:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.14-13.37.28:551][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.01.14-13.37.28:608][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.01.14-13.37.28:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.14-13.37.28:672][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.14-13.37.28:678][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.14-13.37.28:742][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.01.14-13.37.28:743][  0]LogLoad: (Engine Initialization) Total time: 17.97 seconds
+[2017.01.14-13.37.28:743][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.73 seconds
+[2017.01.14-13.37.28:743][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.14-13.37.28:743][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.14-13.37.28:752][  0]LogOcInput: OculusInput pre-init called
+[2017.01.14-13.37.28:779][  0]SourceControl: Info On branch master
+[2017.01.14-13.37.28:779][  0]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.01.14-13.37.28:779][  0]SourceControl: Info Changes to be committed:
+[2017.01.14-13.37.28:779][  0]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	new file:   Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterfac.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	new file:   Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info Changes not staged for commit:
+[2017.01.14-13.37.28:779][  0]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2017.01.14-13.37.28:779][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/Data/BluePrint/Character/BaseCharacter.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	deleted:    Content/Data/BluePrint/Character/DefComponent.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   "Content/Data/BluePrint/Character/\320\222\321\203\320\260\320\241\321\211\321\214\320\267\321\211\321\202\321\203\321\202\320\265.uasset"
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/Data/UI/Inventory/ActionMenu.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/FirstPersonBP/Blueprints/gg.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.01.14-13.37.28:779][  0]SourceControl: Info 	modified:   Saved/AutoScreenshot.png
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	modified:   Saved/Config/Windows/Engine.ini
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	modified:   Saved/Logs/WhiteHole.log
+[2017.01.14-13.37.28:780][  0]SourceControl: Info Untracked files:
+[2017.01.14-13.37.28:780][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Content/Data/BluePrint/Character/RangeVariable.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Autosaves/Game/
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/ActionMenu_2017-01-14-16-06-54.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/ActionMenu_2017-01-14-16-12-56.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/ActionMenu_2017-01-14-16-32-35.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter2_2017-01-14-16-21-00.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter_2017-01-14-15-58-03.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter_2017-01-14-16-05-54.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter_2017-01-14-16-11-34.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter_2017-01-14-16-18-40.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/BaseCharacter_2017-01-14-16-32-59.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/DoInventoryInterfac_2017-01-14-16-32-35.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/DoInventoryInterface1_2017-01-14-16-37-00.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/DoInventoryInterface_2017-01-14-16-32-35.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonCharacter_2017-01-14-15-58-00.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonCharacter_2017-01-14-16-19-49.uasset
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-15-49-22.umap
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-16-06-54.umap
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-16-12-56.umap
+[2017.01.14-13.37.28:780][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-16-19-55.umap
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-16-25-17.umap
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_2017-01-14-16-33-18.umap
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_BuiltData_2017-01-14-16-14-01.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_BuiltData_2017-01-14-16-19-56.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_BuiltData_2017-01-14-16-25-18.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/FirstPersonExampleMap_BuiltData_2017-01-14-16-33-19.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/Inventory_2017-01-14-15-48-18.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/Inventory_2017-01-14-16-10-59.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/RangeVariable_2017-01-14-15-51-56.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Backup/gg_2017-01-14-16-00-11.uasset
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	"Saved/Backup/\320\222\321\203\320\260\320\241\321\211\321\214\320\267\321\211\321\202\321\203\321\202\320\265_2017-01-14-15-49-22.uasset"
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-06FD8F3B4E5807A34A31FAABA07DD732/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-1D1B5CAF4153B143CCA09F932FD09A62/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-8EADCDB34EA4B7F866542B8D757E8455/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-9FAE03D44A10E6C9643C2C9CAFCDA13E/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-B5A2499644C3008A31752DAFF956DA8A/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-C01C60034E07DAB1993F3AB576F3947F/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/UE4CC-Windows-C01C60034E07DAB1993F3AB576F3947F_0000/
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole-backup-2017.01.14-15.41.44.log
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole-backup-2017.01.14-16.13.03.log
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole-backup-2017.01.14-16.17.15.log
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole-backup-2017.01.14-16.20.17.log
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole-backup-2017.01.14-16.37.11.log
+[2017.01.14-13.37.28:781][  0]SourceControl: Info 	Saved/Logs/WhiteHole_2.log
+[2017.01.14-13.37.28:782][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.01.14-13.37.28:969][  0]LogRenderer: Reallocating scene render targets to support 1448x660 NumSamples 1 (Frame:2).
+[2017.01.14-13.37.29:456][  1]LogAssetRegistry: Asset discovery search completed in 11.5886 seconds
+[2017.01.14-13.37.29:456][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.14-13.37.29:456][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000177 seconds (updated 0 objects)
+[2017.01.14-13.38.00:021][934]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 111 classes and 0 folders.
+[2017.01.14-13.38.40:100][475]BlueprintLog: New page: Compile DoInventoryInterface1
+[2017.01.14-13.38.40:418][475]LogSavePackage: Save=10.18ms
+[2017.01.14-13.38.40:418][475]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/DoInventoryInterface1BD3A2C014568B807D164259002F2B259.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset'
+[2017.01.14-13.38.40:420][475]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset
+[2017.01.14-13.38.57:710][ 92]BlueprintLog: New page: Compile DoInventoryInterface1
+[2017.01.14-13.38.58:020][ 92]LogSavePackage: Save=9.40ms
+[2017.01.14-13.38.58:021][ 92]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/DoInventoryInterface1F42654E844CDCA12EA7785AD499D3538.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset'
+[2017.01.14-13.38.58:023][ 92]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset
+[2017.01.14-13.38.58:610][150]LogSavePackage: Save=7.82ms
+[2017.01.14-13.38.58:610][150]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/DoInventoryInterface1B22927374AC7FABE34222ABB94151C9F.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset'
+[2017.01.14-13.38.58:612][150]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Inventory/InventoryComponent/DoInventoryInterface1.uasset
+[2017.01.14-13.38.59:856][262]BlueprintLog: New page: Compile BaseCharacter
+[2017.01.14-13.39.00:369][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/BluePrint/Character/BaseCharacter" FILE="../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset" SILENT=true
+[2017.01.14-13.39.00:475][262]LogSavePackage: Save=94.05ms
+[2017.01.14-13.39.00:475][262]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/BaseCharacter139E994746D7958C062344985E7288E3.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset'
+[2017.01.14-13.39.00:477][262]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset
+[2017.01.14-13.39.01:054][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/BluePrint/Character/BaseCharacter" FILE="../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset" SILENT=true
+[2017.01.14-13.39.01:158][306]LogSavePackage: Save=100.31ms
+[2017.01.14-13.39.01:158][306]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/BaseCharacterDDABA6D9495D556EB9C54FBBC8D8BEA9.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset'
+[2017.01.14-13.39.01:159][306]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset
+[2017.01.14-13.39.34:918][836]BlueprintLog: New page: Compile BaseCharacter
+[2017.01.14-13.39.35:456][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/BluePrint/Character/BaseCharacter" FILE="../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset" SILENT=true
+[2017.01.14-13.39.35:553][836]LogSavePackage: Save=94.42ms
+[2017.01.14-13.39.35:553][836]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/BaseCharacter6B73E9B847DFEBE5917D04BDF9D972D3.tmp' to '../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset'
+[2017.01.14-13.39.35:555][836]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/BluePrint/Character/BaseCharacter.uasset
+[2017.01.14-13.39.36:745][972]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.14-13.39.36:771][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.39.36:771][972]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.01.14-13.39.36:771][972]LogPlayLevel: [PlayLevel] Compiling ActionMenu before play...
+[2017.01.14-13.39.37:008][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/UI/Inventory/ActionMenu" FILE="../../../../../project_c/WhiteHole/Content/Data/UI/Inventory/ActionMenu.uasset" SILENT=true
+[2017.01.14-13.39.37:084][972]LogSavePackage: Save=65.61ms
+[2017.01.14-13.39.37:084][972]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/ActionMenu7FBF9E3B4CF44086DAB08A843ED9F312.tmp' to '../../../../../project_c/WhiteHole/Content/Data/UI/Inventory/ActionMenu.uasset'
+[2017.01.14-13.39.37:086][972]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/Data/UI/Inventory/ActionMenu.uasset
+[2017.01.14-13.39.37:132][972]LogPlayLevel: PlayLevel: Blueprint regeneration took 360 ms (1 blueprints)
+[2017.01.14-13.39.37:133][972]PIE: New page: PIE session: FirstPersonExampleMap (Jan 14, 2017, 7:39:37 PM)
+[2017.01.14-13.39.37:133][972]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.14-13.39.37:175][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042484s)
+[2017.01.14-13.39.37:177][972]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.14-13.39.37:178][972]LogPlayLevel: PIE: World Init took: (0.002349s)
+[2017.01.14-13.39.37:180][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.047345s)
+[2017.01.14-13.39.37:233][972]LogInit: XAudio2 using 'Динамики (2- USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.14-13.39.37:242][972]LogInit: FAudioDevice initialized.
+[2017.01.14-13.39.37:300][972]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.14-13.39.37:305][972]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2017.01.14-16.39.37
+[2017.01.14-13.39.37:306][972]LogWorld: Bringing up level for play took: 0.004989
+[2017.01.14-13.39.37:348][972]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.01.14-13.39.37:365][972]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.51
+[2017.01.14-13.39.37:366][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.39.41:769][312]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=324.115 Y=-65.779 Z=84.086] for [FirstPersonProjectile_C]
+[2017.01.14-13.39.49:104][907]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 500.00.00.00.00.0Сферокуб
+[2017.01.14-13.39.52:319][167]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.39.52:396][167]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.39.55:270][440]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.14-13.39.55:290][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.39.55:290][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.14-13.39.55:290][440]PIE: New page: PIE session: FirstPersonExampleMap (Jan 14, 2017, 7:39:55 PM)
+[2017.01.14-13.39.55:291][440]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.14-13.39.55:325][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034181s)
+[2017.01.14-13.39.55:326][440]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.14-13.39.55:327][440]LogPlayLevel: PIE: World Init took: (0.002006s)
+[2017.01.14-13.39.55:328][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037177s)
+[2017.01.14-13.39.55:380][440]LogInit: XAudio2 using 'Динамики (2- USB PnP Sound Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.14-13.39.55:389][440]LogInit: FAudioDevice initialized.
+[2017.01.14-13.39.55:427][440]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.01.14-13.39.55:431][440]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2017.01.14-16.39.55
+[2017.01.14-13.39.55:432][440]LogWorld: Bringing up level for play took: 0.004207
+[2017.01.14-13.39.55:441][440]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.586
+[2017.01.14-13.39.55:441][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.40.04:924][511]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 500.00.00.00.00.0Сферокуб
+[2017.01.14-13.40.19:164][116]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 500.00.00.00.00.0Сферокуб
+[2017.01.14-13.40.26:009][793]LogSavePackage: Save=262.74ms
+[2017.01.14-13.40.26:009][793]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/FirstPersonExampleMap008B15924515B7368F6423AE45B8E9B9.tmp' to '../../../../../project_c/WhiteHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.01.14-13.40.26:013][793]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.01.14-13.40.29:494][793]LogSavePackage: Save=3351.12ms
+[2017.01.14-13.40.29:494][793]LogSavePackage: Moving '../../../../../project_c/WhiteHole/Saved/FirstPersonExampleMap_BuiltDataD038B62B4F44555BF923B0BBDDD771CB.tmp' to '../../../../../project_c/WhiteHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.01.14-13.40.29:496][793]LogSavePackage:Display: Finished SavePackage ../../../../../project_c/WhiteHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.01.14-13.40.39:635][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.14-13.40.43:850][896]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.205 s
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: === Handled ensure: ===
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: 
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 717]
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: Type mismatch: Expected FirstPersonExampleMap_C, Found LevelScriptBlueprint
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: Stack: 
+[2017.01.14-13.40.43:851][896]LogOutputDevice:Error: UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:185]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:216]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:343]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-Engine.dll!UBlueprint::SetObjectBeingDebugged() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\engine\private\blueprint.cpp:713]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-Engine.dll!UWorld::TransferBlueprintDebugReferences() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\engine\private\world.cpp:1833]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::TeardownPlaySession() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\playlevel.cpp:675]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::EndPlayMap() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\playlevel.cpp:270]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\editorengine.cpp:1670]
+[2017.01.14-13.40.43:852][896]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:371]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:2859]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\launch.cpp:152]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.14+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:202]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: KERNEL32.DLL
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: ntdll.dll
+[2017.01.14-13.40.43:853][896]LogOutputDevice:Error: 
+[2017.01.14-13.40.43:859][896]LogStats:                SubmitErrorReport -  0.000 s
